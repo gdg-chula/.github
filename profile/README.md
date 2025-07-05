@@ -1,11 +1,11 @@
-# Welcome to GDSC - Chula
+# Welcome to GDG on Campus - Chula
 
-![GDSC Chula Logo](https://raw.githubusercontent.com/gdsc-chula/.github/39d4b85d167021eaaa42245c25fa195d274abb3c/Brand%20Guide%20&%20Resource/GDSC%20Logo1.svg)
+![GDG on Campus - Chula Banner](/Resource/GDG-on-Campus-Chula-Horizontal-Light.svg)
 
-Welcome to the official GitHub repository for the **Google Developer Student Clubs (GDSC)** at **Chulalongkorn University**! 🚀
+Welcome to the official GitHub repository for the **Google Developer Group (GDG on Campus)** at **Chulalongkorn University**! 🚀
 
 ## About Us
-GDSC Chulalongkorn University is a vibrant community of tech enthusiasts, learners, and creators. Our mission is to foster collaboration, learning, and innovation among students interested in technology. Whether you’re a beginner or an experienced developer, GDSC is the place to connect, learn, and grow.
+GDG on Campus Chulalongkorn University is a vibrant community of tech enthusiasts, learners, and creators. Our mission is to foster collaboration, learning, and innovation among students interested in technology. Whether you’re a beginner or an experienced developer, GDG on Campus is the place to connect, learn, and grow.
 ## What We Do
 -   **Workshops and Events**: We organize workshops, hackathons, and tech talks on various topics such as web development, machine learning, cloud computing, and more.
 -   **Projects**: Collaborate on exciting projects, contribute to open-source, and build real-world applications.
@@ -14,8 +14,8 @@ GDSC Chulalongkorn University is a vibrant community of tech enthusiasts, learne
 
 ## Get Involved
 
--   **Join Us**: Visit our  [official GDSC Chulalongkorn University page](https://gdsc.community.dev/chulalongkorn-university/)  to learn more about our events and activities.
--   **GitHub Repository**: Explore our code, projects, and resources in our  [GitHub repository](https://github.com/gdsc-chula/).
+-   **Join Us**: Visit our [GDG on Campus Chulalongkorn University community page](https://gdg.community.dev/gdg-on-campus-chulalongkorn-university-bangkok-thailand/) to learn more about our events and activities.
+-   **GitHub Repository**: Explore our code, projects, and resources in our  [GitHub repository](https://github.com/gdg-chula/).
 -   **Connect with Us**: Follow us on [Instagram](https://www.instagram.com/gdsc.chula/) and [Discord Community](https://discord.gg/rK5BhT5gyx) to stay updated on upcoming events and opportunities. 
 
 ## Contributing
